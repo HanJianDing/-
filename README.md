@@ -41,3 +41,4 @@ $env:SALES_API_URL = 'http://127.0.0.1:8180'
 安装依赖后可运行 `python -m pytest tests/test_business.py` 和 `node --test tests/test_plugin.mjs tests/test_frontend_interactions.mjs`。这些示例不代表完整的内部验收套件。
 
 此仓库是独立的源码快照，不含原始 Git 历史、运行数据、备份、日志、内部测试报告或部署产物。
+
